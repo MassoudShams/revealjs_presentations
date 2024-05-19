@@ -1,0 +1,514 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Organic</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../dist/reset.css">
+		<link rel="stylesheet" href="../dist/reveal.css">
+		<link rel="stylesheet" href="../dist/theme/black.css" id="theme">
+		<link rel="stylesheet" href="../dist/global.css">
+    	<link rel="stylesheet" href="../plugin/highlight/monokai.css">
+
+		<style>
+			* td {
+				font-size: 18px;
+			}
+		</style>
+	</head>
+
+	<body>
+
+			<div class="reveal">
+
+				<div class="slides">
+
+					<section>
+						
+						<h1>Projet Organic</h1>
+
+					</section>
+
+					<section>
+						<h2>Presenté par</h2>
+						<div class="flex_container fragment fade-left">
+							<figure>
+								<figcaption>Massoud</figcaption>
+								<img src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+							</figure>
+							<figure>
+								<figcaption>Sébastien</figcaption>
+								<img src="./dist/theme/img/Asahi-KASEI-01.png" alt="Asahi-KASEI_logo">
+							</figure>
+						</div>
+					</section>
+					
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+
+						<figure>
+							<div>
+								<img src="./dist/theme/img/Asahi-KASEI_logo.svg" alt="Asahi-KASEI_logo">
+							</div>
+						</figure>
+
+					</section>
+
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<p>Un groupe japonais international</p>
+					</section>
+			
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3>Entités</h3>
+						<ul>
+							<li style="color: rgb(95, 95, 241)">
+								Daramic : séparateurs pour batteries plomb-acide<br>
+								Utilisations : véhicules automobiles, équipements industriels
+							</li>
+							<li style="color: green">
+								Celgard : séparateurs pour batteries lithium-ion<br>
+								Utilisations : véhicules électriques, électronique portable
+							</li>
+						</ul>
+					</section>
+					
+			
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3>Lieux Géographique</h3>
+						<div class="r-stack">
+							<img src="/dist/theme/img/Carte.png" width="200%" height="310" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Japon.png" width="100%" height="310" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Charlotte.png" width="100%" height="310" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Selestat.png" width="100%" height="310" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Thailande.png" width="100%" height="310" class="fragment fade-in-then-out">
+						</div>
+					</section>
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3>Organigramme</h3>
+						<div class="r-stack">
+							<img src="/dist/theme/img/Application.png" width="60%" height="400" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Support.png" width="90%" height="500" class="fragment fade-in-then-out">
+							<img src="/dist/theme/img/Security.png" width="80%" height="200" class="fragment fade-in-then-out">
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h3>Processus d'accueil</h3>
+						<div class="fragment fade-left" style="color: gray;">Présentation de l'entreprise</div>
+						<div class="fragment fade-left" style="color: gray;">Consignes de sécurité</div>
+						<div class="fragment fade-left" style="color: gray;">Remise des documents</div>
+						<div class="fragment fade-left" style="color: gray;">Présentation des services IT</div>
+					</section>
+
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3>Communication</h3>
+						<div class="r-stack">
+							<ul>    
+								<li style="color: aqua;">Environnement Microsoft</li>
+								<li style="display: flex; justify-content: space-around; align-items: center;">
+									<img src="./dist/theme/img/Outlook.png" alt="Outlook" style="width: 100px; height: 100px;">
+									<img src="./dist/theme/img/OneNote.png" alt="OneNote" style="width: 100px; height: 100px;">
+									<img src="./dist/theme/img/Teams.png" alt="Teams" style="width: 100px; height: 100px;">
+								</li>
+							</ul>
+						</div>
+					</section>
+
+					<section data-auto-animate>
+						<h3>Processus de travail</h3>
+						<div class="fragment fade-left" style="color: gray;">Affectation des tâches</div>
+						<div class="fragment fade-left" style="color: gray;">Besoin interne</div>
+						<div class="fragment fade-left" style="color: gray;">Suivi régulier</div>
+					</section>
+
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3 style="margin-top: 100px; margin-left: 1%;">Structure organisationnelle</h3>
+						<div style="margin-top:10px;display:flex; justify-content: center; align-items: center;">
+							<figure style="margin:40px; flex: 1; text-align: center;">
+								<img src="./dist/theme/img/agile1.png" alt="agile" style="height: 300px; width: auto; margin-left: 35%;">
+							</figure>
+							<figure style="margin:40px; flex: 1; text-align: center;">
+								<img src="./dist/theme/img/vertical.png" alt="vertical" style="height: 300px; width: auto; margin-right: 50%;">
+							</figure>
+						</div>
+					</section>
+				
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3 style="text-align: center;">Centralisation des décisions</h3>
+						<ul style="list-style-type: none; padding: 0; text-align: left;">
+							<li style="margin-bottom: 20px; font-size: 30px; color: #555; display: flex; align-items: center;">
+								<img src="./dist/theme/img/Centralisé.png" alt="Centralisé" style="width: 150px; height: 150px; margin-right: 10px;">
+								Directives stratégiques
+							</li>
+							<li style="font-size: 30px; color: #555; display: flex; align-items: center;">
+								<img src="./dist/theme/img/Decentralise.png" alt="Décentralisé" style="width: 150px; height: 150px; margin-right: 10px;">
+								Gestion décentralisée de l'infrastructure
+							</li>
+						</ul>
+					</section>
+					
+					<section data-auto-animate>
+						<h3>Analyse des décisions</h3>
+						<div class="fragment fade-left" style="color: gray;">Stabilité organisationnelle</div>
+						<div class="fragment fade-left" style="color: gray;">Flexibilité restreinte</div>
+					</section>
+
+					<section data-auto-animate>
+						<h3>Spécialisations des employés</h3>
+						<div class="fragment fade-left" style="color: gray;">Domaines informatique spécifique</div>
+						<div class="fragment fade-left" style="color: gray;">Amélioration de la qualité de vie</div>
+						<div class="fragment fade-left" style="color: gray;">Gestion budgétaire</div>
+					</section>
+				
+
+
+					<section data-auto-animate data-auto-animate-unmatched="fade">
+						<h3>Mon rôle</h3>
+						<figure style="display: flex; justify-content: center; align-items: center;">
+							<img src="./dist/theme/img/azureDevops.png" alt="Azure" style="width: 200px; height: 200px; margin-right: 20px;">
+							<img src="./dist/theme/img/clanguage.png" alt="C#" style="width: 200px; height: 200px;">
+							<img src="./dist/theme/img/netLanguage.png" alt="C#" style="width: 200px; height: 200px; margin-left: 20px;">
+						</figure>
+					</section>
+				
+				<section data-auto-animate>
+
+					<figure>
+						<img src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+					</figure>
+
+				</section>
+				
+				<section data-auto-animate>
+					<figure style="width:200px;">
+						<img src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+					</figure>
+					<p>Présence Mondiale</p>
+					<figure>
+						<img src="./dist/theme/img/Merck_world_map.png" alt="Merck in the world">
+					</figure>
+				</section>	
+
+				<section data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)" id="gradient-bg" data-auto-animate>
+					<figure style="width:200px;">
+						<img src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+					</figure>
+					<h2 data-id="code-title">Organigramme</h2>
+					<pre data-id="code-animation"><code class="hljs text" data-trim data-line-numbers="|2,6|17,18,21|28"><script type="text/template">
+						Merck Global
+						▼ CEO
+							▸ Electronics
+							▸ Enabling Functions
+							▸ Healthcare
+							▼ Life Science
+								‣ LS-BI Business IT
+								‣ LS-BM LS Business Market Services
+								‣ LS-BP Business Partner Life Science
+								‣ LS-CL Controlling Life Science
+								‣ LS-CO Head of CEO Office
+								‣ LS-HR HR Life Science
+								‣ LS-IT IT Life Science
+								‣ LS-LS Life Science Services
+								‣ LS-PS Process Solutions
+								‣ LS-QR Quality and Regulatory Management 
+								▼ LS-SC Integrated Supply Chain Operations 
+									▼ LS-SC-D Supply Chains, Planning & Distrib. 
+										‣ LS-SC-DA Analytics & Performance 
+										‣ LS-SC-DC Customer SC & Innovation 
+										▼ LS-SC-DE Supply Chain Excellence
+											LS-SC-DEA Inventory Excellence-PP Stream
+											‣ LS-SC-DEB Production Planning
+											LS-SC-DEC Demand Planning
+											LS-SC-DED Big Data & Analytics
+											LS-SC-DEE Inventory Excellence- SC Stream
+											LS-SC-DEF SC Planning Stream
+											LS-SC-DEO Order Replenishment
+										‣ LS-SC-DEP Parameters & Information
+									‣ LS-SC-DL Global End to End Supply Chain SLS
+									‣ LS-SC-DN Global Distribution
+									‣ LS-SC-DP Global End to End Supply Chain PS
+									‣ LS-SC-DS Systems
+									‣ LS-SC-DU APAC Market Supply Chain
+								‣ LS-SC-E Engineering & Technology
+								‣ LS-SC-G Growth Realization Office
+									LS-SC-I IOS Cluster
+								‣ LS-SC-P Global Plant Operations
+								‣ LS-SC-S Sourcing Life Science
+								‣ LS-SC-V SLS Value Stream
+					</script></code></pre>
+				</section>
+				<section data-background-gradient="linear-gradient(to bottom, #283b95, #17b2c3)" id="gradient-bg" data-auto-animate>
+					<figure style="width:200px;">
+						<img src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+					</figure>
+					<h2 data-id="code-title">Organigramme</h2>
+					<figure>
+						<img src="./dist/theme/img/Order-Replenishment.png" alt="Order-Replenishment">
+					</figure>
+				</section>
+				<section data-background-video-muted data-background-video="./dist/theme/video/Merck_presentation.mp4">
+					<h2>
+						<img style="width:300px;height:50px" src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo">
+						Molsheim
+					</h2>
+				</section>
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Mon rôle</h2>
+					<p style="opacity: 0.2;">Merck Group</p>
+				</section>
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2 style="margin-top: -100px;opacity: 0.2;">Mon rôle</h2>
+					<div style="margin-top:100px;display:flex;">
+						<figure style="margin:40px;background-color:rgba(31, 18, 20, 0.393)">
+							<figcaption>App développement</figcaption>
+							<img src="./dist/theme/img/Qlik_Logo.svg" alt="Qlik Sense logo">
+						</figure>
+						<figure style="margin:40px;background-color:rgba(31, 18, 20, 0.393)">
+							<figcaption>Résolution de ticket</figcaption>
+							<img src="./dist/theme/img/Jira_Logo.svg" alt="Jira logo">
+						</figure>
+					</div>
+				</section>
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Communication</h2>
+					<p style="opacity: 0.2;">Merck group</p>
+				</section>
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2 style="margin-top: -155px;opacity: 0.2;">Communication</h2>
+					<div style="margin-top:100px;display:flex;">
+						<figure style="margin:40px;">
+							<figcaption>Réunion</figcaption>
+							<img src="./dist/theme/img/Microsoft-Teams.png" alt="MS Teams logo">
+						</figure>
+						<div style="margin:40px;">
+							<figcaption>Ressourcement</figcaption>
+							<div style="font-size:15px;display:flex;text-align:center;">
+								<img style="width:50px;margin:auto 10px" src="./dist/theme/img/Merck-Group-M.png" alt="M"><p>Eva</p>
+							</div>
+							<div style="font-size:15px;display:flex;text-align:center;">
+								<img style="width:50px;margin:auto 10px" src="./dist/theme/img/Merck-Group-M.png" alt="M"><p>Wiki</p>
+							</div>
+						</div>
+						<div style="margin:40px;">
+							<figcaption>Dépannage</figcaption>
+							<div style="font-size:15px;display:flex;text-align:center;">
+								<img style="width:50px;margin:auto 10px" src="./dist/theme/img/Merck-Group-M.png" alt="M"><p>IT4You</p>
+							</div>
+							<div style="font-size:15px;display:flex;text-align:center;">
+								<img style="width:50px;margin:auto 10px" src="./dist/theme/img/Microsoft-Teams.png" alt="M"><p>MS Teams</p>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section data-auto-animate>
+					<h2>Analyse Merck</h2>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content">Analyse Merck</h2>
+					<h3>Relations</h3>
+					<div style="margin-top:100px;display:flex;" class="fragment fade-left">
+						<figure style="margin:40px;">
+							<figcaption>Équipe</figcaption>
+							<img width="400px" height="200px" src="./dist/theme/img/team-relationships.jpg" alt="team-relationships">
+						</figure>
+						<figure style="margin:40px;">
+							<figcaption>Hiérarchique</figcaption>
+							<img width="400px" height="200px" src="./dist/theme/img/hierarchical-relationships.jpeg" alt="hierarchical-relationships">
+						</figure>
+					</div>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content">Analyse Merck</h2>
+					<h3>Centralisation &amp; prise de décision</h3>
+					<div class="fragment fade-in-then-out" style="color: red;">Siège: <br/> Darmstadt, Allemagne</div>
+					<div class="fragment fade-in-then-out" style="color: yellow;text-align:left;padding-left:100px">Décisions centralisés: <br/> <div style="padding-left:100px">- Embauche en CDI</div><div style="padding-left:100px">- Projets/Commandes prestigieux</div></div>
+					<div class="fragment fade-in-then-out" style="color: green;text-align:left;padding-left:100px">Décisions décentralisés: <br/> <div style="padding-left:100px">- Embauche en alternance/stage</div><div style="padding-left:100px">- Projets/Commandes moins prestigieux</div></div>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Analyse Merck</h2>
+					<h3>Spécialisation <span style="opacity: 0.2;text-transform:lowercase">(Mon équipe)</span></h3>
+					<div style="display:flex;justify-content:center;" class="fragment fade-left">
+						<figure style="margin: 40px;color:rgb(0, 170, 255);">
+							<figcaption>Team Manager:</figcaption>
+							<ul style="font-size: 20px;">
+								<li class="fragment fade-left"> &emsp; Data Analyste</li>
+								<li class="fragment fade-left"> &emsp; Rapports des projets aux supérieurs</li>
+								<li class="fragment fade-left"> &emsp; Tâches administratifs</li>
+								<li class="fragment fade-left"> &emsp; Suivre les progrès de l'équipe </li>
+							</ul>
+						</figure>
+						<figure style="margin: 40px;color:rgb(238, 58, 85);">
+							<figcaption>Team Member:</figcaption>
+							<ul style="font-size: 20px;">
+								<li class="fragment fade-left"> &emsp;&emsp; Data Analyste</li>
+								<li class="fragment fade-left"> &emsp;&emsp; Rapports de projet au Team Manager</li>
+							</ul>
+						</figure>
+					</div>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content">Analyse Merck</h2>
+					<h3>Type d'organisation</h3>
+					<figure class="fragment fade-in">
+						<figcaption>Structure Hybride</figcaption>
+						<img width="500px" src="./dist/theme/img/Hybrid_org_structure.png" alt="Structure Hybride">
+					</figure>
+				</section>
+				<section data-auto-animate>
+					<h2>Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+					<h3 style="padding-bottom:50px;">Comparaison</h3>
+					<table style="font-size: 25px;width:100%">
+						<thead>
+							<tr>
+								<th></th>
+								<th><img width="150px" src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo"></th>
+								<th><img width="150px" src="./dist/theme/img/Asahi-KASEI-01.png" alt="Asahi-KASEI_logo"></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th>Siège</th>
+								<td>Darmstadt, Allemagne</td>
+								<td>Tokyo, Japon</td>
+							</tr>
+							<tr>
+								<th>Culture</th>
+								<td>Européen</td>
+								<td>Japonnaise</td>
+							</tr>
+							<tr>
+								<th>CA</th>
+								<td>15,3 Mrd € (2017)</td>
+								<td>18,5 Mrd $ (2014)</td>
+							</tr>
+							<tr>
+								<th>Nb employés</th>
+								<td>85000</td>
+								<td>25000</td>
+							</tr>
+							<tr>
+								<th>Domaines</th>
+								<td>Electronics, Healthcare, Life Science</td>
+								<td>Material, Homes, Healthcare</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+					<h3 style="padding-bottom:50px;">Implication des différences</h3>
+					<div style="display:flex;">
+						<figure style="margin:40px;">
+							<figcaption>Approche Européene</figcaption>
+							<img width="400px" height="200px" src="./dist/theme/img/Culture_europeen.jpg" alt="Culture_europeen">
+						</figure>
+						<figure style="margin:40px;">
+							<figcaption>Approche Japonnaise</figcaption>
+							<img width="400px" height="200px" src="./dist/theme/img/Culture_japonnaise.jpeg" alt="Culture_japonnaise">
+						</figure>
+					</div>
+				</section>
+
+				<section data-auto-animate>
+					<h2 style="font-size:20px; opacity: 0.2; width:fit-content; margin-top:-100px">
+						Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei
+					</h2>
+					<h3 style="padding-bottom:50px;">Communication</h3>
+				
+					<table style="font-size: 25px;width:100%">
+						<thead>
+							<tr>
+								<th></th>
+								<th><img width="150px" src="./dist/theme/img/Logo_Merck_KGaA_2015.svg" alt="Merck_logo"></th>
+								<th><img width="150px" src="./dist/theme/img/Asahi-KASEI-01.png" alt="Asahi-KASEI_logo"></th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<th>Moyens de communication</th>
+								<td>Teams, Outlook</td>
+								<td>Teams, Outlook</td>
+							</tr>
+							<tr>
+								<th>Fréquence de communication</th>
+								<td>Chaque jour à 11h</td>
+								<td>Une fois par semaine</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+					<h3 style="padding-bottom:50px;">avantages &amp; inconvénients</h3>
+					<div style="display:flex;justify-content:center;" class="fragment fade-left">
+						<figure style="margin: 40px;color:rgb(0, 170, 255);">
+							<figcaption>Outlook:</figcaption>
+							<ul style="font-size: 20px;margin-top:20px">
+								<li class="fragment fade-left"> &emsp; <b style="color: white;">Avantage:</b> traçable et reliable</li>
+								<li class="fragment fade-left"> &emsp; <b style="color: white;">Inconvénients:</b> Statique et limitée</li>
+							</ul>
+						</figure>
+						<figure style="margin: 40px;color:rgb(238, 58, 85);">
+							<figcaption>Teams:</figcaption>
+							<ul style="font-size: 20px;margin-top:20px">
+								<li class="fragment fade-left"> &emsp; <b style="color: white;">Avantage:</b> en temps réel - vocale/visuelle</li>
+								<li class="fragment fade-left"> &emsp; <b style="color: white;">Inconvénients:</b> moins traçable</li>
+							</ul>
+						</figure>
+					</div>
+						
+				</section>
+				
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+					<h3 style="padding-bottom:50px;">Traitement des dysfonctionnements</h3>
+
+						<div class="fragment fade-in-then-out">Perte de connection : Canaux alternatifs</div>
+						<div class="fragment fade-in-then-out">Pannes électriques : Sources d'énergie de secours</div>
+						
+				</section>
+
+				<section data-auto-animate>
+					<h2 style="font-size:20px;opacity: 0.2;width:fit-content;margin-top:-100px">Merck <span style="text-transform: lowercase;">vs</span> Asahi Kasei</h2>
+					<h3 style="padding-bottom:50px;">Améliorations</h3>
+
+						<div class="fragment" style="text-align: left;">Équipes de communication spécialisées</div>
+						<div class="fragment" style="text-align: left;">Formations de sensibilisations</div>
+						
+				</section>
+
+
+				<section>
+					<h2>The end</h2>
+				</section>
+				
+			</div>
+
+		</div>
+
+		<script src="../dist/reveal.js"></script>
+		<script src="../plugin/notes/notes.js"></script>
+		<script src="../plugin/markdown/markdown.js"></script>
+		<script src="../plugin/highlight/highlight.js"></script>
+		
+		<script>
+			Reveal.initialize({
+				view: 'scroll',
+				hash: true,
+				center: true,
+				history: true,
+				transition: 'concave',
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+	
+		</script>
+	</body>
+</html>
