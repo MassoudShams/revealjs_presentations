@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>T-WEB-600-msc2026</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="../dist/reset.css">
+		<link rel="stylesheet" href="../dist/reveal.css">
+		<link rel="stylesheet" href="../dist/theme/black.css" id="theme">
+		<link rel="stylesheet" href="../dist/global.css">
+    	<link rel="stylesheet" href="../plugin/highlight/monokai.css">
+
+		<style>
+			* td {
+				font-size: 18px;
+			}
+		</style>
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+
+				<section>
+					
+					<h1>Projet </br> E-commerce</h1>
+
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Sommaire</h2>
+					<ul>
+						<li class="fragment fade-left">Présentation du projet</li>
+						<li class="fragment fade-left">Equipe</li>
+						<li class="fragment fade-left">Gestion du projet</li>
+						<li class="fragment fade-left">Langages et outils</li>
+						<li class="fragment fade-left">Répartition des tâches</li>
+						<li class="fragment fade-left">Fonctionnalités</li>
+						<li class="fragment fade-left">Bonus</li>
+						<li class="fragment fade-left">Difficultés rencontrées</li>
+						<li class="fragment fade-left">Perspectives d'amélioration</li>
+						<li class="fragment fade-left">Avis sur le projet</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Présentation du projet</h2>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Présentation du projet</h2>
+					<ul>
+						<div class="flex_container">
+							<figure>
+								<figcaption></figcaption>
+								<img src="dist/theme/img/ecommerce.png" alt="Merck_logo">
+							</figure>
+							<figure>
+								<figcaption></figcaption>
+								<img src="dist/theme/img/group.png" alt="Asahi-KASEI_logo">
+							</figure>
+							<figure>
+								<img src="dist/theme/img/calendrier.webp" alt="Asahi-KASEI_logo">
+							</figure>	
+						</div>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Equipe</h2>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2 style="color: #3B82F6;">Equipe</h2>
+					<ul>
+						<li class="fragment fade-left">Massoud</li>
+						<li class="fragment fade-left">Sammuel</li>
+						<li class="fragment fade-left">Jérôme</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Gestion du projet</h2>
+					<ul>
+						<div class="flex_container fragment fade-left">
+							<figure>
+								<img src="dist\theme\img\github-logo-vector.png" alt="Merck_logo">
+							</figure>
+							<figure>
+								<img src="dist/theme/img/Microsoft-Teams.png" alt="Asahi-KASEI_logo">
+							</figure>
+							<figure>
+								<img src="dist/theme/img/Trello-Logo.png" alt="Asahi-KASEI_logo">
+							</figure>	
+						</div>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Langages et outils</h2>
+					<ul>
+						<div class="flex_container fragment fade-left">
+							<figure>
+								<img src="dist\theme\img\Emblème-Docker.jpg" alt="Merck_logo">
+							</figure>
+							<figure>
+								<img src="dist\theme\img\symfony_black_02.svg" alt="Asahi-KASEI_logo">
+							</figure>
+							<figure>
+								<img src="dist\theme\img\logos_React_logo_wordmark.png" alt="Asahi-KASEI_logo">
+							</figure>	
+						</div>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Fonctionnalités</h2>
+					<ul>
+						<li class="fragment fade-left">Authentification</li>
+						<li class="fragment fade-left">CRUD API</li>
+						<li class="fragment fade-left">Paiement</li>
+						<li class="fragment fade-left">Panier</li>
+						<li class="fragment fade-left">Admin</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Bonus</h2>
+					<ul>
+						<li class="fragment fade-left">Pannel Admin</li>
+						<li class="fragment fade-left">Panier</li>
+						<li class="fragment fade-left">Authentification(gestion de compte)</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Difficultés rencontrées</h2>
+					<ul>
+						<li class="fragment fade-left">Dockerisation</li>
+						<li class="fragment fade-left">CORS</li>
+						<li class="fragment fade-left">Symfony</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Perspectives d'amélioration</h2>
+					<ul>
+						<li class="fragment fade-left">Barre de recherche</li>
+						<li class="fragment fade-left">Double Authentification</li>
+						<li class="fragment fade-left">Info Panier</li>
+						<li class="fragment fade-left">Test Unitaire API</li>
+					</ul>
+				</section>
+
+				<section data-auto-animate data-auto-animate-unmatched="fade">
+					<h2>Nos avis sur projet</h2>
+				</section>
+
+				<section data-auto-animate>
+					<h2>Fin</h2>
+				</section>
+				
+			</div>
+
+		</div>
+
+		<script src="../dist/reveal.js"></script>
+		<script src="../plugin/notes/notes.js"></script>
+		<script src="../plugin/markdown/markdown.js"></script>
+		<script src="../plugin/highlight/highlight.js"></script>
+		
+		<script>
+			Reveal.initialize({
+				view: 'scroll',
+				hash: true,
+				center: true,
+				history: true,
+				transition: 'concave',
+
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+	
+		</script>
+	</body>
+</html>
